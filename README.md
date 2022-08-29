@@ -15,7 +15,7 @@ This repository addresses topics that were seen in Discipline DCC012- Data Struc
 Below are the support materials for your studies:
 - [Classes](https://github.com/vitoria-isabela/estrutura-de-dados-2/tree/master/classes)
 - [Work I Project](https://github.com/vitoria-isabela/processamento-livros-projeto-gutenberg)
-- [Work II Project](https://github.com/vitoria-isabela/processamento-livros-projeto-gutenberg)
+- [Work II Project]([https://github.com/vitoria-isabela/processamento-livros-projeto-gutenberg](https://github.com/vitoria-isabela/processamento-livros-II-projeto-gutenberg-indece-remissivo-e-compressao)
  
 # Contacts
 
