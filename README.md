@@ -13,8 +13,9 @@ This repository addresses topics that were seen in Discipline DCC012- Data Struc
 
 # Support material
 Below are the support materials for your studies:
-- [Classes](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/Classes/Aulas)
-- [Work Projects](https://github.com/vitoria-isabela/Estruturas-de-Dados/tree/master/ListOfExercises/Listas%20de%20Exerc%C3%ADcios)
+- [Classes](https://github.com/vitoria-isabela/estrutura-de-dados-2/tree/master/classes)
+- [Work I Project](https://github.com/vitoria-isabela/processamento-livros-projeto-gutenberg)
+- [Work II Project](https://github.com/vitoria-isabela/processamento-livros-projeto-gutenberg)
  
 # Contacts
 
